@@ -7,7 +7,6 @@ const mongoose = require('mongoose');
 const port = process.env.PORT || 5000;
 require('dotenv').config()
 
-// lhDIBDHnMzDp7tz4
 
 // middleware
 app.use(express.json())
