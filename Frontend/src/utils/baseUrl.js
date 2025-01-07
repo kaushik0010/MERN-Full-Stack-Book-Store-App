@@ -1,5 +1,5 @@
 const getBaseUrl = () => {
-    return "https://book-store-app-backend-c7fs.onrender.com";
+    return "https://book-store-app-backend-blue.vercel.app";
 }
 
 export default getBaseUrl;
